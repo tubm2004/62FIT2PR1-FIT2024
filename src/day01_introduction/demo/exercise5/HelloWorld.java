@@ -1,4 +1,4 @@
-package day01_introduction.demo.exercise3;
+package day01_introduction.demo.exercise5;
 
 public class HelloWorld {
 
